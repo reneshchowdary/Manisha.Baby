@@ -1,6 +1,7 @@
 #include<stdio.h>
 main()
 {
-printf"I LOVE U BABY");
+printf("I LOVE U BABY");
+  scanf("%d",&name);
 
 }
